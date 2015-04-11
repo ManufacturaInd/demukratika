@@ -21,7 +21,7 @@ MP_DATASET_FILE = os.path.expanduser("~/Datasets/parlamento-deputados/data/deput
 MPINFO_DATASET_FILE = os.path.expanduser("~/Datasets/parlamento-deputados/data/deputados-extra.csv")
 GOV_DATASET_FILE = os.path.expanduser("~/Datasets/governos/data/governos.csv")
 GOVPOST_DATASET_FILE = os.path.expanduser("~/Datasets/governos/data/governos-cargos.csv")
-TRANSCRIPTS_DIR = os.path.expanduser("~/Datasets/dar-transcricoes-txt/data/")
+TRANSCRIPTS_DIR = os.path.expanduser("./transcricoes/")
 TRANSCRIPT_DATASET_FILE = os.path.expanduser("~/Datasets/parlamento-datas_sessoes/data/datas-debates.csv")
 TRANSCRIPT_DATASET_FILE_2 = os.path.expanduser("~/Datasets/parlamento-datas_sessoes/data/datas-parlamento.csv")
 

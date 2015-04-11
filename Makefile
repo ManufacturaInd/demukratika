@@ -24,8 +24,8 @@
 # the basis from where this file was created.
 
 # your SSH target dir for rsync
-SSH_HOSTNAME = democratica
-SSH_DIR = /web/demo.cratica.org/public_html/
+SSH_HOSTNAME = dh
+SSH_DIR = /home/rlaf/www/transparenciahackday.org/demukratika/
 
 SSH_PATH = $(SSH_HOSTNAME):$(SSH_DIR)
 # server port for local server
